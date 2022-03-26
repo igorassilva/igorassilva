@@ -7,7 +7,7 @@
 
 Eu sou o Igor Augusto, estudante de Tecnologia de Informação na [Univesp](https://univesp.br). Desenvolvedor backend PHP e apenas um curioso no frontend. Jogador ~~profissonal~~ de CSGO e Rocket League nas horas vagas.
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor PHP** na [ControlWare Sistemas](http://www.controlware.com.br)
+- 🔭 Atualmente trabalhando como **Desenvolvedor Back-end** na [Labi Exames](https://labiexames.com.br)
 - 🌱 Atualmente aprendendo **Laravel, SOLID, Design Patterns e Testes**
 - 🇺🇸 Em busca da fluência no Inglês
 
